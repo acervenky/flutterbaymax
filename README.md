@@ -1,6 +1,6 @@
-# first_app
+# Flutter Baymax
 
-A new Flutter project.
+Baymax in flutter, inspired from Flutter Yeti.
 
 ## Getting Started
 
